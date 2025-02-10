@@ -29,9 +29,15 @@ Stasiun Luar Angkasa Internasional:
 
 ...Dan benda ini terbang, membuat manusia tetap hidup di luar angkasa!
 
+<<<<<<< HEAD
 Bagaimana perangkat rumit seperti itu dibuat?
 
 Prinsip mana yang bisa kita pinjam agar membuat pengembangan kita pada tingkat yang sama handal dan terukur? Atau, setidaknya, mendekati.
+=======
+How are such complex devices created?
+
+Which principles could we borrow to make our development same-level reliable and scalable? Or, at least, close to it?
+>>>>>>> 6236eb8c3cdde729dab761a1d0967a88a1a6197e
 
 ## Arsitektur Komponen
 
